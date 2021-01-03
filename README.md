@@ -1,4 +1,66 @@
-### Hi there 👋
+## Hi, I'm Alex! <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="25px">
+
+<p>
+  <em>
+    Fan of <a href="https://graphql.org/">GraphQL</a>, <a href="https://reactjs.org/">React</a>, & <a href="https://aws.amazon.com/dynamodb/">DynamoDB</a> | Incoming Software Engineer at <a href="https://aws.amazon.com/"> AWS</a> 
+  </em>
+</p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=leskaa.leskaa)
+![Repos Badge](https://badges.pufler.dev/repos/leskaa)
+
+```graphql
+query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
+  user(username: $username) {
+    name
+    location
+    position
+    company
+    favoriteLanguages @include(if: $isProfileReadme) {
+      language
+    }
+  }
+}
+```
+
+```json
+{
+  "username": "leskaa",
+  "isProfileReadme": true
+}
+```
+
+```json
+{
+  "data": {
+    "user": {
+      "name": "Alex Leska",
+      "location": "Minneapolis",
+      "position": "Software Dev Engineer",
+      "company": "Amazon Web Services",
+      "favoriteLanguages": [
+        {
+          "language": "Typescript"
+        },
+        {
+          "language": "Rust"
+        },
+        {
+          "language": "Golang"
+        }
+      ]
+    }
+  }
+}
+```
+<img align="center"  alt="GIF" src="https://media.giphy.com/media/mCmc21BKYUuC2A6p8H/source.gif" height="160px" />
+<a href="https://github.com/leskaa/leskaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&theme=tokyonight&hide=HTML,CSS,Processing,SCSS&langs_count=10" />
+</a>
+<a href="https://github.com/leskaa/leskaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&theme=tokyonight&count_private=true&hide=stars&show_icons=true&line_height=24&hide_rank=true" alt="Alex's GitHub Stats" />
+</a>
+
 
 <!--
 **leskaa/leskaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
