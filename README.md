@@ -55,14 +55,14 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
 ```
 
 <a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&theme=tokyonight&hide=HTML,CSS,Processing,SCSS&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&theme=tokyonight&hide=HTML,CSS,Processing,SCSS&langs_count=10" height="150px"/>
 </a>
 &nbsp;
 <a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&theme=tokyonight&count_private=true&hide=stars&show_icons=true&line_height=24&hide_rank=true" alt="Alex's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&theme=tokyonight&count_private=true&hide=stars&show_icons=true&line_height=24&hide_rank=true" alt="Alex's GitHub Stats" height="150px"/>
 </a>
 &nbsp;
-<img align="center"  alt="GIF" src="https://media3.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif" height="165px" />
+<img align="center"  alt="GIF" src="https://media3.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif" height="150px" />
 
 ---
 
@@ -72,7 +72,6 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
   </em></b>
 </p>
 <img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="105px" />
-&nbsp;&nbsp;
 <a href="https://github.com/leskaa/matchup-ranker-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=matchup-ranker-api&theme=tokyonight" alt="matchup-ranker-api" height="105px" />
 </a>
