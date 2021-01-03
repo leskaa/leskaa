@@ -6,7 +6,7 @@
   </em>
 </p>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=leskaa.leskaa) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=leskaa.leskaa)
 ![Repos Badge](https://badges.pufler.dev/repos/leskaa)
 
 ```graphql
@@ -55,14 +55,14 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
 ```
 
 <a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&theme=tokyonight&hide=HTML,CSS,Processing,SCSS&langs_count=10" height="150px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&theme=tokyonight&hide=HTML,CSS,Processing,SCSS&langs_count=10" />
 </a>
 &nbsp;
 <a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&theme=tokyonight&count_private=true&hide=stars&show_icons=true&line_height=24&hide_rank=true" alt="Alex's GitHub Stats" height="150px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&theme=tokyonight&count_private=true&hide=stars&show_icons=true&line_height=24&hide_rank=true" alt="Alex's GitHub Stats" />
 </a>
 &nbsp;
-<img align="center"  alt="GIF" src="https://media3.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif" height="150px" />
+<img align="right"  alt="GIF" src="https://media3.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif" height="165px" />
 
 ---
 
