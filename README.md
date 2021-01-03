@@ -53,7 +53,7 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
   }
 }
 ```
-<img align="center"  alt="GIF" src="https://media.giphy.com/media/mCmc21BKYUuC2A6p8H/source.gif" height="160px" />
+<img align="center"  alt="GIF" src="https://media3.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif" height="160px" />
 <a href="https://github.com/leskaa/leskaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&theme=tokyonight&hide=HTML,CSS,Processing,SCSS&langs_count=10" />
 </a>
