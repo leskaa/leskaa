@@ -70,13 +70,9 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
     What projects am I working on right now?
   </em></b>
 </p>
-<img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="105px" />
+<img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="120px" />
 <a href="https://github.com/leskaa/matchup-ranker-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=matchup-ranker-api&theme=tokyonight" alt="matchup-ranker-api" height="105px" />
-</a>
-&nbsp;
-<a href="https://github.com/leskaa/rallee-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=rallee-api&theme=tokyonight" alt="matchup-ranker-api" height="105px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=matchup-ranker-api&theme=tokyonight" alt="matchup-ranker-api" height="120px" />
 </a>
 
 <!--
