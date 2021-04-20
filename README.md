@@ -17,6 +17,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=stars&show_icons=true&line_height=29&hide_rank=true&include_all_commits=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="Alex's GitHub Stats" />
 </a>
 
+<br> 
+<br> 
+
 <p>
   <em><b>
     What project am I working on right now?
@@ -24,8 +27,11 @@
 </p>
 <img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="150px" />
 <a href="https://github.com/leskaa/space_monopoly" padding="20px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=space_monopoly&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="matchup-ranker-api" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=space_monopoly&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="leskaa/space_monopoly" height="150px" />
 </a>
+
+<br> 
+<br> 
 
 ```graphql
 query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
