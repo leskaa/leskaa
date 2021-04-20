@@ -9,6 +9,24 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leskaa.leskaa)
 ![Repos Badge](https://badges.pufler.dev/repos/leskaa)
 
+<a href="https://github.com/leskaa/leskaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=HTML,Processing,SCSS&langs_count=10&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" />
+</a>
+&nbsp;
+<a href="https://github.com/leskaa/leskaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=stars&show_icons=true&line_height=29&hide_rank=true&include_all_commits=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="Alex's GitHub Stats" />
+</a>
+
+<p>
+  <em><b>
+    What project am I working on right now?
+  </em></b>
+</p>
+<img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="150px" />
+<a href="https://github.com/leskaa/space_monopoly" padding="20px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=space_monopoly&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="matchup-ranker-api" height="150px" />
+</a>
+
 ```graphql
 query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
   user(username: $username) {
@@ -20,13 +38,6 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
       language
     }
   }
-}
-```
-
-```json
-{
-  "username": "leskaa",
-  "isProfileReadme": true
 }
 ```
 
@@ -53,27 +64,6 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
   }
 }
 ```
-
-<img align="right"  alt="GIF" src="https://media3.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif" height="165px" />
-<a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&theme=tokyonight&hide=HTML,CSS,Processing,SCSS&langs_count=10" />
-</a>
-&nbsp;
-<a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&theme=tokyonight&count_private=true&hide=stars&show_icons=true&line_height=24&hide_rank=true" alt="Alex's GitHub Stats" />
-</a>
-
----
-
-<p>
-  <em><b>
-    What projects am I working on right now?
-  </em></b>
-</p>
-<img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="120px" />
-<a href="https://github.com/leskaa/matchup-ranker-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=matchup-ranker-api&theme=tokyonight" alt="matchup-ranker-api" height="120px" />
-</a>
 
 <!--
 **leskaa/leskaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
