@@ -22,12 +22,12 @@
 
 <p>
   <em><b>
-    What project am I working on right now?
+    What projects am I working on right now?
   </em></b>
 </p>
-<img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="140px" />
+<img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="150px" />
 <a href="https://github.com/leskaa/space_monopoly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=space_monopoly&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="leskaa/space_monopoly" height="140px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=space_monopoly&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="leskaa/space_monopoly" width="380px" height="150px" />
 </a>
 
 <br> 
