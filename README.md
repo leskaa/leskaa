@@ -10,7 +10,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/leskaa)
 
 <a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS&langs_count=10&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML&langs_count=10&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" />
 </a>
 &nbsp;
 <a href="https://github.com/leskaa/leskaa">
