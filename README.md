@@ -27,7 +27,7 @@
 </p>
 <img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="150px" />
 <a href="https://github.com/leskaa/saga-graphql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=saga-graphql&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="leskaa/saga-graphql" width="380px" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=space-monopoly&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="leskaa/saga-graphql" width="380px" height="150px" />
 </a>
 
 <br> 
