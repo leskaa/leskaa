@@ -52,7 +52,7 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
   "data": {
     "user": {
       "name": "Alex Leska",
-      "location": "Minneapolis",
+      "location": "Seattle",
       "position": "Software Dev Engineer",
       "company": "Amazon Web Services",
       "favoriteLanguages": [
