@@ -58,15 +58,9 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
       "position": "Software Dev Engineer",
       "company": "Amazon Web Services",
       "favoriteLanguages": [
-        {
-          "language": "Typescript"
-        },
-        {
-          "language": "Rust"
-        },
-        {
-          "language": "Elixir"
-        }
+        {"language": "Typescript"},
+        {"language": "Rust"},
+        {"language": "Elixir"}
       ]
     }
   }
