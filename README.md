@@ -2,15 +2,16 @@
 
 <p>
   <em>
-    Fan of <a href="https://graphql.org/">GraphQL</a>, <a href="https://reactjs.org/">React</a>, & <a href="https://aws.amazon.com/dynamodb/">DynamoDB</a> | Software Engineer at <a href="https://aws.amazon.com/s3/storage-classes/glacier/"> AWS S3 Glacier</a> 
+    Fan of <a href="https://graphql.org/">GraphQL</a>, <a href="https://reactjs.org/">React</a>, & <a href="https://planetscale.com/">PlanetScale</a> | Software Engineer at <a href="https://aws.amazon.com/s3/storage-classes/glacier/"> AWS S3 Glacier</a> 
   </em>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leskaa.leskaa)
-![Repos Badge](https://badges.pufler.dev/repos/leskaa)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)
 
 <a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML&langs_count=10&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" />
 </a>
 &nbsp;
 <a href="https://github.com/leskaa/leskaa">
@@ -25,9 +26,10 @@
     What projects am I working on right now?
   </em></b>
 </p>
-<img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="150px" />
+<img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="120px" />
+&nbsp;
 <a href="https://github.com/leskaa/saga-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=saga-app&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="leskaa/saga-app" width="380px" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=saga-app&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="leskaa/saga-app" height="120px" />
 </a>
 
 <br> 
@@ -52,7 +54,7 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
   "data": {
     "user": {
       "name": "Alex Leska",
-      "location": "Seattle",
+      "location": "Seattle, WA",
       "position": "Software Dev Engineer",
       "company": "Amazon Web Services",
       "favoriteLanguages": [
