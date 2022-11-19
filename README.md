@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    Fan of <a href="https://graphql.org/">GraphQL</a>, <a href="https://reactjs.org/">React</a>, & <a href="https://planetscale.com/">PlanetScale</a> | Software Engineer at <a href="https://aws.amazon.com/s3/storage-classes/glacier/"> AWS S3 Glacier</a> 
+    Fan of <a href="https://graphql.org/">GraphQL</a>, <a href="https://reactjs.org/">React</a>, & <a href="https://planetscale.com/">PlanetScale</a>
   </em>
 </p>
 
@@ -40,8 +40,6 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
   user(username: $username) {
     name
     location
-    position
-    company
     favoriteLanguages @include(if: $isProfileReadme) {
       language
     }
@@ -55,8 +53,6 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
     "user": {
       "name": "Alex Leska",
       "location": "Seattle, WA",
-      "position": "Software Dev Engineer",
-      "company": "Amazon Web Services",
       "favoriteLanguages": [
         {"language": "Typescript"},
         {"language": "Rust"},
