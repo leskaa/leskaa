@@ -11,11 +11,23 @@
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)
 
 <a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&theme=vue" />
+  </picture>
 </a>
 &nbsp;
 <a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=contribs&show_icons=true&line_height=29&hide_rank=false&include_all_commits=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="Alex's GitHub Stats" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=contribs&show_icons=true&line_height=29&hide_rank=false&include_all_commits=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=contribs&show_icons=true&line_height=29&hide_rank=false&include_all_commits=true&theme=vue" alt="Alex's GitHub Stats" />
+  </picture>
 </a>
 
 <br> 
@@ -29,7 +41,13 @@
 <img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="120px" />
 &nbsp;
 <a href="https://github.com/leskaa/dotadle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=dotadle&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="leskaa/dotadle" height="120px" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=dotadle&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=dotadle&show_owner=true&theme=vue" alt="leskaa/dotadle" height="120px" />
+  </picture>
 </a>
 
 <br> 
