@@ -15,7 +15,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/leskaa/leskaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=stars&show_icons=true&line_height=29&hide_rank=true&include_all_commits=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="Alex's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=contribs&show_icons=true&line_height=29&hide_rank=false&include_all_commits=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="Alex's GitHub Stats" />
 </a>
 
 <br> 
