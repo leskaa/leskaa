@@ -28,8 +28,8 @@
 </p>
 <img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="120px" />
 &nbsp;
-<a href="https://github.com/leskaa/saga-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=saga-app&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="leskaa/saga-app" height="120px" />
+<a href="https://github.com/leskaa/dotadle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=dotadle&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247" alt="leskaa/dotadle" height="120px" />
 </a>
 
 <br> 
