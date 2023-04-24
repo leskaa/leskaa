@@ -13,7 +13,7 @@
 <a href="https://github.com/leskaa/leskaa">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003248"
       media="(prefers-color-scheme: dark)"
     />
     <source 
@@ -27,7 +27,7 @@
 <a href="https://github.com/leskaa/leskaa">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=contribs&show_icons=true&line_height=29&hide_rank=false&include_all_commits=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247"
+      srcset="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=contribs&show_icons=true&line_height=29&hide_rank=false&include_all_commits=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003248"
       media="(prefers-color-scheme: dark)"
     />
     <source 
@@ -51,7 +51,7 @@
 <a href="https://github.com/leskaa/dotadle">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=dotadle&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003247"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=dotadle&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003248"
       media="(prefers-color-scheme: dark)"
     />
     <source 
