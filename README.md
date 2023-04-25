@@ -11,35 +11,15 @@
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)
 
 <a href="https://github.com/leskaa/leskaa">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003248"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&theme=vue" />
-  </picture>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskaa&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&theme=transparent" />
 </a>
 &nbsp;
 <a href="https://github.com/leskaa/leskaa">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=contribs&show_icons=true&line_height=29&hide_rank=false&include_all_commits=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003248"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=contribs&show_icons=true&line_height=29&hide_rank=false&include_all_commits=true&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=contribs&show_icons=true&line_height=29&hide_rank=false&include_all_commits=true&theme=vue" alt="Alex's GitHub Stats" />
-  </picture>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leskaa&show_icons=false&count_private=true&hide=contribs&show_icons=true&line_height=29&hide_rank=false&include_all_commits=true&theme=transparent" alt="Alex's GitHub Stats" />
 </a>
 
 <br> 
-<br> 
+<br>
 
 <p>
   <em><b>
@@ -49,21 +29,11 @@
 <img align="left"  alt="GIF" src="https://media3.giphy.com/media/jsI8nBXJl6s7r7iuJ5/giphy.gif" height="120px" />
 &nbsp;
 <a href="https://github.com/leskaa/dotadle">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=dotadle&show_owner=true&title_color=FCE4EC&icon_color=F186C0&&text_color=E0F7FA&bg_color=25,00132C,003248"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=dotadle&show_owner=true&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=dotadle&show_owner=true&theme=vue" alt="leskaa/dotadle" height="120px" />
-  </picture>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leskaa&repo=dotadle&show_owner=true&theme=transparent" alt="leskaa/dotadle" height="120px" />
 </a>
 
 <br> 
-<br> 
+<br>
 
 ```graphql
 query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
@@ -84,9 +54,9 @@ query GitHubUserAndStack($username: Username, $isProfileReadme: Boolean!) {
       "name": "Alex Leska",
       "location": "Seattle, WA",
       "favoriteLanguages": [
-        {"language": "Typescript"},
-        {"language": "Rust"},
-        {"language": "Elixir"}
+        { "language": "Typescript" },
+        { "language": "Rust" },
+        { "language": "Elixir" }
       ]
     }
   }
